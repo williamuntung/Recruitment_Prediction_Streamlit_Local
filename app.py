@@ -551,7 +551,7 @@ def main():
     sidebar_model_status(models)
 
     # ── Hero ──
-    st.markdown("<h1>PlaceIQ</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>Recruitment Prediction</h1>", unsafe_allow_html=True)
     st.markdown('<p class="tagline">Model Deployment Projects</p>', unsafe_allow_html=True)
     st.markdown('<div class="fancy-divider"></div>', unsafe_allow_html=True)
 
