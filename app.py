@@ -7,7 +7,7 @@ from scipy import stats
 
 
 st.set_page_config(
-    page_title="PlaceIQ · Placement & Salary AI",
+    page_title="Recruitment Prediction · Placement & Salary AI",
     page_icon="🎓",
     layout="wide",
 )
@@ -552,7 +552,7 @@ def main():
 
     # ── Hero ──
     st.markdown("<h1>PlaceIQ</h1>", unsafe_allow_html=True)
-    st.markdown('<p class="tagline">Recruitment Prediction · AI-powered</p>', unsafe_allow_html=True)
+    st.markdown('<p class="tagline">Model Deployment Projects</p>', unsafe_allow_html=True)
     st.markdown('<div class="fancy-divider"></div>', unsafe_allow_html=True)
 
     # PLACEMENT MODE
